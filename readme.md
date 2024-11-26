@@ -6,7 +6,7 @@ We will prioritize open-sourcing the data processing scripts.
 
 The reproduction code for Tell can be found in https://github.com/alasdairtran/transform-and-tell.
 
-The reproduction code for Tell can be found in https://github.com/xuewyang/JoGANIC.
+The reproduction code for JoGANIC can be found in https://github.com/xuewyang/JoGANIC.
 
 The trained checkpoint and processed data will be uploaded to Google Drive soon. Any questions can be asked in the issue section, and the user will continue to respond.
 
